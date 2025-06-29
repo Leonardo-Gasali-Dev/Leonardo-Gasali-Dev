@@ -9,7 +9,7 @@ Graduado en Licenciatura en Tecnologías Digitales y en Análisis de Sistemas, c
 * 🌍  Estoy radicado en Argentina
 * 🖥️  Vea mi portafolio en [Linkedin](http://www.linkedin.com/in/leonardo-gasali)
 * ✉️  Puedes contactarme en [leonardorodrigog@gmail.com](mailto:leonardorodrigog@gmail.com)
-* 🤝  Estoy abierta a colaborar en Proyectos de programación.
+* 🤝  Estoy abierto a colaborar en Proyectos de programación.
 
 ### Skills
 
